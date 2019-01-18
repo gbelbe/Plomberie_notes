@@ -1,3 +1,7 @@
+Cours plomberie
+-------------------------------
+
+
 ESF Eau sanitaire froide
 ESC Eau sanitaire chaude
 
@@ -22,7 +26,7 @@ Règle importante : évacuation toujours du diamètre plus fin vers le plus gros
 Note: anciennement les tuyaux en cuivre avaient un diamètre plus petit: 14, 8 ou 10 mm. Maintenant la norme à évolué : mini 12, 14, 16 ou 20mm.
 Ne pas repiquer sur un diamètre inférieur car sinon on va créer des bruits et des bouchages potentiels.
 
-Norme dans les tuyaux: Le tuyau d'eau chaude est toujours au dessus du tuyau d'eau froide.
+Norme dans les tuyaux: Le tuyau d'eau chaude est toujours au dessus du tuyau d'eau froide. l'arrivée d'eau chaude toujours à gauche de l'arrivée d'eau froide.(haut chaud bas froid / gauche chaud droit froid)
 
 Chaudières: 2 entrées avec températures différentes:
 1 eau chaude sanitaire, 1 chauffage.
@@ -54,3 +58,7 @@ On met de la filassse uniquement sur un vissage femelle.
 
 Encollage tuyaux PVC: faire un marcage de position sur l'embout male et femelle au feutre.
 Mettre de la colle pvc tout autour à l'intérieur de l'embout femelle. Glisser l'embout male tout droit dans l'embout femelle sans le tourner, et jusqu'au bout.
+
+
+Elec: relier les tuyaux cuivre à la masse de l'elec (serreflex special a raccorder sur un tuyau cuivre)
+
